@@ -1,1 +1,1 @@
-This repos contains necessary code files for simulation of TEGs. For more details go through this ($${\color{blue}978-3-032-18176-3, 657078_1_En, (Chapter 21), Debi Prasad Mishra et al. (Eds): Sustainable Energy, Environment and Green Technology for a Greener Future}$$).
+This repos contains necessary code files for simulation of TEGs. For more details go through this (${\color{blue}978-3-032-18176-3, 657078_1_En, (Chapter 21), Debi Prasad Mishra et al. (Eds): Sustainable Energy, Environment and Green Technology for a Greener Future}$).
